@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 About Me<br><br>Frontend developer who enjoys building cool stuff.<br><br>I specialize in Vue (Nuxt) and Svelte (SvelteKit) with a focus on performance, clean architecture and interactive UI.<br><br>Currently working on:<br>- ⚡ Real-time applications (WebSockets, live sync)<br>- 🎬 Interactive UI & animations<br>- 🧠 Scalable frontend architecture
+ <br><br>Frontend developer who enjoys building cool stuff.<br><br>I specialize in Vue (Nuxt) and Svelte (SvelteKit) with a focus on performance, clean architecture and interactive UI.<br><br>Currently working on:<br>- ⚡ Real-time applications (WebSockets, live sync)<br>- 🎬 Interactive UI & animations<br>- 🧠 Scalable frontend architecture
 
 
 ## 🌐 Socials:
